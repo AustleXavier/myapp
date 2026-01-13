@@ -24,7 +24,7 @@ jobs:
       run: dotnet build -c Release --no-restore
 
     - name: Publish
-      run: publish src/MyApp/MyApp.csproj -c Release -o publish
+      run: dotnet publish -c Release -o publish
 
     - name: Copy files to server
       uses: appleboy/scp-action@v0.1.7
