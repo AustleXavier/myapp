@@ -1,0 +1,8 @@
+D:\Austle\WORKOUTS\wk\MyApp\MyApp\obj\Release\net10.0\PubTmp\Out\MyApp.exe
+D:\Austle\WORKOUTS\wk\MyApp\MyApp\obj\Release\net10.0\PubTmp\Out\appsettings.Development.json
+D:\Austle\WORKOUTS\wk\MyApp\MyApp\obj\Release\net10.0\PubTmp\Out\appsettings.json
+D:\Austle\WORKOUTS\wk\MyApp\MyApp\obj\Release\net10.0\PubTmp\Out\dotnet-tools.json
+D:\Austle\WORKOUTS\wk\MyApp\MyApp\obj\Release\net10.0\PubTmp\Out\MyApp.dll
+D:\Austle\WORKOUTS\wk\MyApp\MyApp\obj\Release\net10.0\PubTmp\Out\MyApp.deps.json
+D:\Austle\WORKOUTS\wk\MyApp\MyApp\obj\Release\net10.0\PubTmp\Out\MyApp.runtimeconfig.json
+D:\Austle\WORKOUTS\wk\MyApp\MyApp\obj\Release\net10.0\PubTmp\Out\MyApp.pdb

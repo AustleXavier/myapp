@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Austle\WORKOUTS\wk\MyApp\MyApp\bin\Release\net10.0\publish\</_PublishTargetUrl>
+    <History>True|2026-01-08T10:55:20.2131569Z||;True|2026-01-08T16:22:50.3353536+05:30||;True|2026-01-08T16:21:47.2411120+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Controllers/HomeController.cs">
+      <publishTime>01/08/2026 15:25:46</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
